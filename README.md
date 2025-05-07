@@ -1,4 +1,4 @@
-# PlanetVPN Product API
+#  Product API
 
 ## Requirements
 
